@@ -1,0 +1,7 @@
+C:/Users/loudj/Documents/utbm/CS/info/c++/AP4A-Projet-TP/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/AP4A-Projet-TP.dir
+C:/Users/loudj/Documents/utbm/CS/info/c++/AP4A-Projet-TP/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/loudj/Documents/utbm/CS/info/c++/AP4A-Projet-TP/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/loudj/Documents/utbm/CS/info/c++/AP4A-Projet-TP/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/loudj/Documents/utbm/CS/info/c++/AP4A-Projet-TP/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/loudj/Documents/utbm/CS/info/c++/AP4A-Projet-TP/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/loudj/Documents/utbm/CS/info/c++/AP4A-Projet-TP/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

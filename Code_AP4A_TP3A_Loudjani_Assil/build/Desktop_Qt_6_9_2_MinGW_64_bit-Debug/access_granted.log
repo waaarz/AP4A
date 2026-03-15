@@ -1,0 +1,85 @@
+2025-09-28 11:57:01 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:01 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-09-28 11:57:02 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-09-28 11:57:02 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-09-28 11:57:02 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:02 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:02 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:03 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:03 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-09-28 11:57:03 [101] Dr. Martin (TEACHER) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:03 [100] Alice Dupont (STUDENT) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:03 [101] Dr. Martin (TEACHER) -> BuildingReader[1] at Main Building Entrance
+2025-09-28 11:57:03 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-09-28 11:57:03 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:46 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:46 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:46 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:46 [101] Dr. Martin (TEACHER) -> BuildingReader[1] at Main Building Entrance
+2025-10-28 12:00:46 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:46 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-10-28 12:00:46 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-10-28 12:00:46 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:46 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-10-28 12:00:46 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:46 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-10-28 12:00:47 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:47 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:47 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-10-28 12:00:47 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-10-28 12:00:47 [100] Alice Dupont (STUDENT) -> BuildingReader[1] at Main Building Entrance
+2025-10-28 12:00:47 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-10-28 12:00:47 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-10-28 12:00:47 [101] Dr. Martin (TEACHER) -> BuildingReader[1] at Main Building Entrance
+2025-10-28 12:00:47 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-10-28 12:00:47 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:47 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-10-28 12:00:47 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:26 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:26 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:26 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:26 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:26 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:26 [101] Dr. Martin (TEACHER) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:26 [100] Alice Dupont (STUDENT) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:26 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:27 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:27 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:27 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:27 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:27 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:27 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:27 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:27 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:27 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:27 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:28 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:28 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:28 [101] Dr. Martin (TEACHER) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:28 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:32 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:32 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:32 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:33 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:33 [103] Securite 1 (SECURITY) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:33 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:33 [101] Dr. Martin (TEACHER) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:33 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:33 [103] Securite 1 (SECURITY) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:33 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:34 [100] Alice Dupont (STUDENT) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:34 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:34 [102] Paul Admin (STAFF) -> RoomReader[2] at Lab A - Room 101
+2025-11-04 14:47:34 [102] Paul Admin (STAFF) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:34 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:34 [100] Alice Dupont (STUDENT) -> BuildingReader[1] at Main Building Entrance
+2025-11-04 14:47:34 [102] Paul Admin (STAFF) -> RoomReader[3] at Admin Office - Room 201
+2025-11-04 14:47:34 [103] Securite 1 (SECURITY) -> BuildingReader[1] at Main Building Entrance
